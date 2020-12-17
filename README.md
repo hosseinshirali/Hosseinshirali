@@ -1,15 +1,21 @@
 ### Hi there 👋
 
-<!--
-**hosseinshirali/Hosseinshirali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm Hossein,I'm a senior master student at University of Bologna,Italy.studying Electronics Engineering in field of electronic technologies for Big data and Internet of Things(E_BIT).I'm mostly interested in Machine Learning and Computer Vision.
-I mainly work with these tools
+
+
+
+
+
 
 [![email](https://img.shields.io/badge/mail-blue?style=flat&logo=gmail)](mailto:shiralihosein1212@gmail.com) <br>
 [![linkedin](https://img.shields.io/badge/linkedin-red?style=flat&logo=linkedin)](https://linkedin.com/in/hossein-shirali-a5a498171) <br>
 [![stats](https://img.shields.io/badge/stats-green?style=flat&logo=github)](https://profile-summary-for-github.com/user/hosseinshirali) <br>
 
+
+
+
 #### I mainly work with these tools
+
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="32" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
