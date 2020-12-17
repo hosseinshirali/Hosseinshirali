@@ -21,9 +21,7 @@ I'm Hossein,I'm a senior master student at University of Bologna,Italy.studying 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="linux" width="64" height="32"/> &nbsp;
 <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="64" height="32"/> &nbsp;
 <img src="https://symbols.getvecta.com/stencil_90/38_opencv.cf28ccfdc8.svg" alt="opencv" width="64" height="32"/> &nbsp;
-<p align="center">
 <img src="https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_logo_horizontal.png" width="32" />
-</p>
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="64" height="32" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="64" height="32" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="64" height="32"/> &nbsp;
