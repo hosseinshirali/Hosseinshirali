@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hossein,I'm a senior master student at University of Bologna,Italy.studying Electronics Engineering in field of electronic technologies for Big data and Internet of Things(E_BIT).I'm mostly interested in Machine Learning and Computer Vision.
+I'm Hossein,I'm a senior master student at University of Bologna,Italy.studying Electronics Engineering in field of electronic technologies for Big data and Internet of Things(E_BIT).I'm mostly interested in Machine Learning, Deep Learning and Computer Vision.
 
 
 
