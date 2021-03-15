@@ -26,4 +26,4 @@ I'm Hossein,I'm a senior master student at University of Bologna,Italy.studying 
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="64" height="32"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="64" height="32"/>
 <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="128" height="32"/>  &nbsp;
-<img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" width="128" height="32"/>  &nbsp;
+<img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" width="64" height="32"/>  &nbsp;
