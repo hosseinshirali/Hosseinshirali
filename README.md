@@ -2,7 +2,7 @@
 
 <h1>Hi There, I'm Hossein <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Data Scientist** and working as a **Ph.D Researcher** at [KIT University](https://www.kit.edu/kit/english/index.php "KIT University"). My day-to-day work revolves around Image processing and building Machine Learning models for various problems.
+I'm a **Data Scientist** and working as a **Ph.D Researcher** at [KIT](https://www.kit.edu/kit/english/index.php "KIT University"). My day-to-day work revolves around Image processing and building Machine Learning models for various problems.
 
 
 ## Skill Set :muscle:
