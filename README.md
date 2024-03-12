@@ -10,16 +10,21 @@
 ## 🔧 Skills & Tools
 
 ### Programming Languages
-![Python](https://img.icons8.com/color/40/000000/python--v1.png)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 
 ### Libraries & Frameworks
-![NumPy](https://img.icons8.com/color/40/000000/numpy.png) ![Pandas](https://img.icons8.com/color/40/000000/pandas.png) ![Matplotlib](https://img.icons8.com/color/40/000000/matplotlib.png) ![OpenCV](https://img.icons8.com/color/40/000000/opencv.png) ![TensorFlow](https://img.icons8.com/color/40/000000/tensorflow.png) ![Keras](https://img.icons8.com/color/40/000000/keras.png) ![Scikit-Learn](https://img.icons8.com/ios-filled/40/000000/scikit-learn.png) ![PyTorch](https://img.icons8.com/ios-filled/40/000000/pytorch.png)
+![NumPy](https://img.icons8.com/color/48/000000/numpy.png) ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) ![Keras](https://img.icons8.com/color/48/000000/keras.png) ![Scikit-Learn](https://img.icons8.com/ios-filled/50/000000/scikit-learn.png) ![PyTorch](https://img.icons8.com/ios-filled/50/000000/pytorch.png)
 
 ### Collaboration & Version Control
-![Git](https://img.icons8.com/color/40/000000/git.png) ![GitHub](https://img.icons8.com/ios-glyphs/40/000000/github.png)
+![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)
+
+### Containerization & Orchestration
+![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
 
 ### Additional Tools
-![Jupyter](https://img.icons8.com/ios-filled/40/000000/jupyter.png) ![PyCharm](https://img.icons8.com/ios-filled/40/000000/pycharm.png) ![Microsoft Power Platform](https://img.icons8.com/color/40/000000/microsoft-power-platform.png) ![Office](https://img.icons8.com/color/40/000000/microsoft-office-2019.png) ![Google Colab](https://img.icons8.com/color/40/000000/google-colab.png)
+![Jupyter](https://img.icons8.com/ios-filled/50/000000/jupyter.png) ![PyCharm](https://img.icons8.com/ios-filled/50/000000/pycharm.png) ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Microsoft Power Platform](https://img.icons8.com/color/48/000000/microsoft-power-platform.png) ![Office](https://img.icons8.com/color/48/000000/microsoft-office-2019.png) ![Google Colab](https://img.icons8.com/color/48/000000/google-colab.png)
+
+
 
 
 
