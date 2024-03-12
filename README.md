@@ -1,27 +1,32 @@
-<h1>Hi There, I'm Hossein <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Welcome to My GitHub! I'm Hossein Shirali 👋</h1>
 
-I'm a **Data Scientist** and Ph.D. Researcher at [KIT](https://www.kit.edu/kit/english/index.php "KIT University"). My expertise lies in image processing and machine learning.
+<p>I'm a Ph.D. Candidate at the Karlsruhe Institute of Technology (KIT), where I specialize in leveraging cutting-edge deep learning and computer vision techniques for environmental and biodiversity research. With a focus on invertebrate species identification and biomass estimation, my work stands at the intersection of technology and environmental science, aiming to advance non-invasive species analysis through innovative technological solutions.</p>
 
-## Skills :muscle:
+## 🌱 What I'm Focused On
+- **Image Processing & Machine Learning**: Implementing ML models for species identification and developing biomass estimation techniques from imagery.
+- **Environmental Research**: Combining technology and environmental science for sustainable and non-invasive ecological studies.
+- **Optimization & Automation**: Enhancing efficiency in various domains through automation and optimization algorithms.
+
+## 🔧 Skills & Tools
 
 ### Programming Languages
-<img title="Python" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+![Python](https://img.icons8.com/color/40/000000/python--v1.png)
 
-### Libraries and Frameworks
-<img title="TensorFlow" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"> <img title="Keras" alt="Keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png"> <img title="Scikit-Learn" alt="Scikit Learn" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"> <img title="OpenCV" alt="OpenCV" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"> <img title="Open3D" alt="Open3D" width="30px" src="https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_logo_horizontal.png">
+### Libraries & Frameworks
+![NumPy](https://img.icons8.com/color/40/000000/numpy.png) ![Pandas](https://img.icons8.com/color/40/000000/pandas.png) ![Matplotlib](https://img.icons8.com/color/40/000000/matplotlib.png) ![OpenCV](https://img.icons8.com/color/40/000000/opencv.png) ![TensorFlow](https://img.icons8.com/color/40/000000/tensorflow.png) ![Keras](https://img.icons8.com/color/40/000000/keras.png) ![Scikit-Learn](https://img.icons8.com/ios-filled/40/000000/scikit-learn.png) ![PyTorch](https://img.icons8.com/ios-filled/40/000000/pytorch.png)
 
-### Infrastructure
-<img title="AWS" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+### Collaboration & Version Control
+![Git](https://img.icons8.com/color/40/000000/git.png) ![GitHub](https://img.icons8.com/ios-glyphs/40/000000/github.png)
+
+### Additional Tools
+![Jupyter](https://img.icons8.com/ios-filled/40/000000/jupyter.png) ![PyCharm](https://img.icons8.com/ios-filled/40/000000/pycharm.png) ![Microsoft Power Platform](https://img.icons8.com/color/40/000000/microsoft-power-platform.png) ![Office](https://img.icons8.com/color/40/000000/microsoft-office-2019.png) ![Google Colab](https://img.icons8.com/color/40/000000/google-colab.png)
 
 
-### Tools
-<img title="Jupyter Notebook" alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"> <img title="VS Code" alt="VS Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> <img title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 
-## Some of my stats :bar_chart:
-
+## 📈 Some Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosseinshirali&show_icons=true&theme=radical&include_all_commits=true)
 
-## Let's Connect :handshake:
-
+## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/hossein-shirali-a5a498171)
 - Email: [shiralihosein1212@gmail.com](mailto:shiralihosein1212@gmail.com)
+
