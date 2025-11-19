@@ -50,6 +50,9 @@ Currently wrapping up my **PhD at Karlsruhe Institute of Technology (KIT)**, I s
 *Open to collaborations, product-focused projects, or just swapping ideas about AI and smart automation.*
 
 <p align="left">
+<a href="https://incandescent-scone-d4ee7d.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
+</a>
 <a href="https://linkedin.com/in/hossein-shirali-a5a498171">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
