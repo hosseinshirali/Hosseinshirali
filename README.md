@@ -47,7 +47,7 @@ At the **Karlsruhe Institute of Technology (KIT)**, I lead AI development for op
       <h3>Entomoscope &amp; ENIMAS</h3>
       Imaging platform and analysis software, from image acquisition and batch analysis to human-in-the-loop validation, rolled out to institutions across multiple countries.
       <br /><br />
-      <a href="https://gitlab.kit.edu/kit/iai/ber/enimas2">Code</a>
+      <a href="https://doi.org/10.64898/2026.01.23.701290">Paper (bioRxiv)</a> · <a href="https://gitlab.kit.edu/kit/iai/ber/enimas2">Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>INJA</h3>
