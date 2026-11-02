@@ -1,67 +1,132 @@
-# 💫 About Me
+<div align="center">
 
-### 👋 Hi, I’m Hossein
-I’m an **Applied AI Scientist and Engineer** working at the edge of computer vision, deep learning, and robotics.
+<img src="assets/banner.svg" width="100%" alt="Hossein Shirali, Computer Vision and Machine Learning Engineer" />
 
-Currently wrapping up my **PhD at Karlsruhe Institute of Technology (KIT)**, I specialize in turning smart algorithms into real-world tools—from open-source photomicroscopes to scalable cloud pipelines and full-stack automation for scientific and industrial challenges.
+<a href="https://incandescent-scone-d4ee7d.netlify.app/"><img src="https://img.shields.io/badge/Website-0E7C7B?style=for-the-badge&logo=astro&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/hossein-shirali-a5a498171/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://scholar.google.com/citations?user=zXljf7gAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://orcid.org/0009-0005-6884-4263"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="mailto:shiralihosein1212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
----
+</div>
 
-### 🚀 Core Expertise
+## About me
 
-* 🧠 **Deep Learning & Neural Network Design:** Architecting custom models for complex tasks.
-* 👁️ **Computer Vision:** Object detection (YOLO), segmentation, and automated morphometrics.
-* ⚙️ **Model Deployment:** Converting research code into production-ready APIs (ONNX, Docker, FastAPI).
-* 🔬 **Scientific Computing:** High-throughput data analysis and robotic imaging integration.
-* ☁️ **Scalable Infrastructure:** HPC (Slurm), AWS, and Cloud-native workflows.
+I'm a computer vision and machine learning engineer with 5+ years building end-to-end vision systems, from model development to user-facing software and hardware integration.
 
----
+At the **Karlsruhe Institute of Technology (KIT)**, I lead AI development for open-source robotic imaging platforms and am completing my PhD (Dr.-Ing.) in computer vision and deep learning. I have also done foundation-model research at **Mila – Quebec AI Institute**, and worked in industry on embedded 3D vision, satellite-image segmentation and optimization.
 
-### 🛠 Tech Stack
+<table>
+  <tr>
+    <td align="center" width="25%"><b>5+ years</b><br /><sub>in machine learning and computer vision</sub></td>
+    <td align="center" width="25%"><b>8 journal articles</b><br /><sub>in computer vision and deep learning</sub></td>
+    <td align="center" width="25%"><b>Robotic imaging</b><br /><sub>AI for the DiversityScanner insect-sorting robot</sub></td>
+    <td align="center" width="25%"><b>17 schools</b><br /><sub>nationwide rollout of the Entomoscope platform</sub></td>
+  </tr>
+</table>
 
-**AI, Vision & Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=flat) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+## Featured work
 
-**Web & Backend Development**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DiversityScanner</h3>
+      AI models for an insect-sorting robot, from image processing and object detection to classification and quality control, and for the next-generation DiversityScanner 2.
+      <br /><br />
+      <a href="https://doi.org/10.1111/syen.70039">Paper</a> · <a href="https://github.com/hosseinshirali/dark-taxa-triage-dl">Code &amp; models</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>InsectMorphoAI</h3>
+      Open-source framework that combines segmentation, image calibration and geometric modeling to estimate length, volume and biomass from 2D images.
+      <br /><br />
+      <a href="https://github.com/hosseinshirali/InsectMorphoAI">Code</a> · <a href="https://doi.org/10.1016/j.ecoinf.2026.103854">Paper</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Entomoscope &amp; ENIMAS</h3>
+      Imaging platform and analysis software, from image acquisition and batch analysis to human-in-the-loop validation, rolled out to 17 Danish nature schools.
+      <br /><br />
+      <a href="https://gitlab.kit.edu/kit/iai/ber/enimas2">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>INJA</h3>
+      Full-stack, cross-platform city-discovery app that combines live local activity and events with personalized plans generated by LLMs grounded in search results.
+      <br /><br />
+      <a href="https://inja.app/">inja.app</a> · <sub>pre-release</sub>
+    </td>
+  </tr>
+</table>
 
-**Data, Databases & Viz**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FD6F00?style=flat&logo=gradio&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=mlflow&logoColor=blue)
+## Selected publications
 
-**Cloud, DevOps & Tools**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=flat&logo=koyeb&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![HPC Slurm](https://img.shields.io/badge/HPC-SLURM-blue?style=flat) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Shirali, H.**, et al. (2026). InsectMorphoAI: A deep learning framework for automated insect morphometrics and biomass estimation with taxon-specific volumetric validation. *Ecological Informatics*. [doi:10.1016/j.ecoinf.2026.103854](https://doi.org/10.1016/j.ecoinf.2026.103854)
+- **Shirali, H.**, et al. (2026). Automated specimen triage for dark taxa: Deep learning enables orientation, sex identification and anatomical segmentation from robotic imaging. *Systematic Entomology*. [doi:10.1111/syen.70039](https://doi.org/10.1111/syen.70039)
+- Caruso, V., **Shirali, H.**, et al. (2026). Image-based recognition using advanced neural networks can aid surveillance of *Agrilus* jewel beetles. *NeoBiota*. [doi:10.3897/neobiota.105.180959](https://doi.org/10.3897/neobiota.105.180959)
+- **Shirali, H.**, et al. (2024). Image-based recognition of parasitoid wasps using advanced neural networks. *Invertebrate Systematics*. [doi:10.1071/IS24011](https://doi.org/10.1071/IS24011)
 
----
+All publications are on [Google Scholar](https://scholar.google.com/citations?user=zXljf7gAAAAJ&hl=en).
 
-### 🌱 Current Interests
-* 🔭 **AI-driven automation** for science & industry
-* 🦾 **Computer vision** in robotics and hardware
-* ⚡ **High-throughput data pipelines** & Scalable deployment (Cloud/HPC)
-* 📖 **Open science** & reproducibility
+## Tech stack
 
----
+**Languages**<br />
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
 
-### 📢 Let’s Connect
-*Open to collaborations, product-focused projects, or just swapping ideas about AI and smart automation.*
+**Deep learning & computer vision**<br />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00A3A3?style=flat)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 
-<p align="left">
-<a href="https://incandescent-scone-d4ee7d.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
-</a>
-<a href="https://linkedin.com/in/hossein-shirali-a5a498171">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:shiralihosein1212@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://orcid.org/0009-0005-6884-4263">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
-</a>
-</p>
+**3D vision & edge AI**<br />
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![Point Clouds](https://img.shields.io/badge/Point_Clouds-3D_Vision-5A4FCF?style=flat)
+![SLAM](https://img.shields.io/badge/SLAM-3D_Mapping-2E7D6F?style=flat)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hosseinshirali&color=blue)
+**MLOps & compute**<br />
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![HPC Slurm](https://img.shields.io/badge/HPC-SLURM-3B5998?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+
+**Apps, APIs & data**<br />
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FD6F00?style=flat&logo=gradio&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**Cloud**<br />
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=flat&logo=koyeb&logoColor=white)
+
+## Current focus
+
+- Computer vision for robotics and automated imaging systems
+- Foundation-model fine-tuning and generalization across imaging domains
+- 3D perception and efficient models for edge devices
+- Open, reproducible research software
+
+<div align="center">
+
+<sub>Open to computer vision and machine learning engineering roles and research collaborations. The quickest way to reach me is <a href="https://www.linkedin.com/in/hossein-shirali-a5a498171/">LinkedIn</a> or <a href="mailto:shiralihosein1212@gmail.com">email</a>.</sub>
+
+</div>
