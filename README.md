@@ -19,9 +19,9 @@ At the **Karlsruhe Institute of Technology (KIT)**, I lead AI development for op
 <table>
   <tr>
     <td align="center" width="25%"><b>5+ years</b><br /><sub>in machine learning and computer vision</sub></td>
-    <td align="center" width="25%"><b>8 journal articles</b><br /><sub>in computer vision and deep learning</sub></td>
+    <td align="center" width="25%"><b>10 journal articles</b><br /><sub>in computer vision and deep learning</sub></td>
     <td align="center" width="25%"><b>Robotic imaging</b><br /><sub>AI for the DiversityScanner insect-sorting robot</sub></td>
-    <td align="center" width="25%"><b>17 schools</b><br /><sub>nationwide rollout of the Entomoscope platform</sub></td>
+    <td align="center" width="25%"><b>International rollout</b><br /><sub>Entomoscope platform in schools across multiple countries</sub></td>
   </tr>
 </table>
 
@@ -45,7 +45,7 @@ At the **Karlsruhe Institute of Technology (KIT)**, I lead AI development for op
   <tr>
     <td width="50%" valign="top">
       <h3>Entomoscope &amp; ENIMAS</h3>
-      Imaging platform and analysis software, from image acquisition and batch analysis to human-in-the-loop validation, rolled out to 17 Danish nature schools.
+      Imaging platform and analysis software, from image acquisition and batch analysis to human-in-the-loop validation, rolled out to schools across multiple countries.
       <br /><br />
       <a href="https://gitlab.kit.edu/kit/iai/ber/enimas2">Code</a>
     </td>
